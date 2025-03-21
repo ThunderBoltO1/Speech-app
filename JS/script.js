@@ -1,3 +1,4 @@
+const REDIRECT_URI = 'https://speech-ram.netlify.app';
 const API_KEY = 'AIzaSyC5n7h-wuxvKdvP4gXBiSStuU8bFSm4k2U';
 const CLIENT_ID = '71962080875-khc6aslq3phrnm9cqgguk37j0funtr7f.apps.googleusercontent.com';
 const SPREADSHEET_ID = '1YY1a1drCnfXrSNWrGBgrMaMlFQK5rzBOEoeMhW9MYm8';
